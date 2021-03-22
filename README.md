@@ -2,7 +2,7 @@
 😈 Your Game Boy Color emulator does not pass this test. 😈
 
 ## Reference Image
-An accurate emulator should generate output identical to the image below:
+To pass this test an emulator should generate output identical to the image below:
 
 ![reference image](img/reference.png)
 
